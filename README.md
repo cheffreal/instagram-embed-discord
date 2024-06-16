@@ -9,3 +9,5 @@ CHEFF ABİ BOT YAPTIK ABİ TM BB
 
  BOTCU OLARAK ERTUCUK BU ADAMI SİKEYİM BU ADAMI HARBİ SİKEİYM 
  ![alt text](image.png)
+
+ertuyla sorunum yok sevdiğim için böyle diyom 
