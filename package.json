@@ -1,0 +1,17 @@
+{
+    "name": "instagram-discord-bot",
+    "version": "1.0.0",
+    "description": "instagram embed discord işte amk",
+    "main": "cheff.js",
+    "scripts": {
+        "start": "node cheff.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.0.0",
+        "instagram-web-api": "^2.2.2",
+        "node-cron": "^3.0.0"
+    },
+    "author": "Cheff",
+    "license": "MIT",
+    "devDependencies": {}
+}
